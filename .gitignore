@@ -1,0 +1,4 @@
+# Large render artifacts and logs (not needed in repo)
+_pages/*.png
+_pages/*.jpg
+_pages/*.log
